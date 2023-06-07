@@ -3,7 +3,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas. </p>
 <p> - 🎯 Tenho interesse em: desenvolvimento backend. </p>
-<p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independete do RJ. </p>
+<p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independente do RJ. </p>
   
 </div>
 
