@@ -1,5 +1,5 @@
  <h2>Oi, meu nome é Ana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-✨ Nasci em Julho de 84 e migrei de carreira pra TI em Maio de 2021.✨
+✨ Nasci em Julho de 84.✨
 <div style="display: inline_block"  >
 <p> - 👨‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas. </p>
 <p> - 🎯 Tenho interesse em: desenvolvimento backend. </p>
