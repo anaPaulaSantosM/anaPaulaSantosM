@@ -7,7 +7,7 @@
   
 </div>
 
-<h4>--> Minhas skills:</h4>
+<h4>--> Minhas Hard Skills:</h4>
 <div align="center">
     <img height="40" src="https://assets.zabbix.com/img/brands/nodejs.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<h4>--> Minhas Softskills:</h4>
+<h4>--> Minhas Soft Skills:</h4>
 <p>Comunicação</p>
 <p>Auto-didata</p>
 <p>Resiliência</p>
