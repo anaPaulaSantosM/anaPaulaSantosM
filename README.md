@@ -1,5 +1,5 @@
  <h2>Oi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-✨ Meu nome é Ana Paula dos Santos Marianni.✨
+<p>✨ Meu nome é Ana Paula dos Santos Marianni.✨</p>
 <div style="display: inline_block"  >
  
 <p> - 👨‍🎓 Eu sou Dev Full Stack e formada em Análise e Desenvolvimento de Sistemas. </p>
