@@ -1,9 +1,8 @@
- <h2>Oi, meu nome é Ana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-✨ Nasci em Julho de 84.✨
+ <h2>Oi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+✨ Meu nome é Ana Paula dos Santos Marianni.✨
 <div style="display: inline_block"  >
-<p> - 👨‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas. </p>
-<p> - 🎯 Tenho interesse em: desenvolvimento backend. </p>
-<p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independente do RJ. </p>
+<p> - 👨‍🎓 Eu sou Dev Full Stack e formada em Análise e Desenvolvimento de Sistemas. </p>
+<p> - 🎯 Estudo programação desde 2019 e atuo na área desde 2021. </p>
   
 </div>
 
@@ -20,22 +19,17 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
- 
- --> Meu Blog:
-<p align="center">
-   <a href="https://anapaulasm.github.io/"> --> ACESSAR MEUS POSTS <--</a>
- </p>
+
+--> Minhas Softskills:
+<p align="center">Comunicação</p>
+<p align="center">Auto-didata</p>
+<p align="center">Resiliência</p>
+<p align="center">Trabalho em equipe</p>
+<p align="center">Comprometimento</p>
+
   
---> Meus contatos:
+--> Meu linkedin:
 <p align="center">
-    <a href="https://github.com/AnaPaulaSM">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:marianni.ana@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marianni.ana@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/anap-dossantos/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/anap-dossantos/">
     </a>
