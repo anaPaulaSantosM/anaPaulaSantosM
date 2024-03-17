@@ -1,6 +1,7 @@
  <h2>Oi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ✨ Meu nome é Ana Paula dos Santos Marianni.✨
 <div style="display: inline_block"  >
+ 
 <p> - 👨‍🎓 Eu sou Dev Full Stack e formada em Análise e Desenvolvimento de Sistemas. </p>
 <p> - 🎯 Estudo programação desde 2019 e atuo na área desde 2021. </p>
   
@@ -21,15 +22,15 @@
 </div>
 
 --> Minhas Softskills:
-<p align="center">Comunicação</p>
-<p align="center">Auto-didata</p>
-<p align="center">Resiliência</p>
-<p align="center">Trabalho em equipe</p>
-<p align="center">Comprometimento</p>
+<p>Comunicação</p>
+<p>Auto-didata</p>
+<p>Resiliência</p>
+<p>Trabalho em equipe</p>
+<p>Comprometimento</p>
 
   
 --> Meu linkedin:
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/anap-dossantos/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/anap-dossantos/">
     </a>
