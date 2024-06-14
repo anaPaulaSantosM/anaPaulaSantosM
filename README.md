@@ -23,7 +23,7 @@
 
 <h4>--> Minhas Soft Skills:</h4>
 <p>Comunicação</p>
-<p>Auto-didata</p>
+<p>Autodidata</p>
 <p>Resiliência</p>
 <p>Trabalho em equipe</p>
 <p>Comprometimento</p>
